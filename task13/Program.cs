@@ -8,7 +8,7 @@
 
 System.Console.WriteLine("enter number");
 int number = Convert.ToInt32(Console.ReadLine());
-while (number>1000)
+while (number>=1000)
 {
     number= number /10;
 }
