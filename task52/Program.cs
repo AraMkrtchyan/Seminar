@@ -40,7 +40,7 @@ void Sum(int[,] sum)
       a=0;
       sredar=0;
     }
-    //System.Console.WriteLine(a);
+    
 }
 int[,] matrix=new int[3,3];
 FillArray(matrix);
